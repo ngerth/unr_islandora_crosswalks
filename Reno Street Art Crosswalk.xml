@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    
+    <mods version="3.3">
+        <titleInfo>
+            <title><?cdm-element-name Title?></title>
+        </titleInfo>
+      <!--    <typeOfResource><?cdm-element-name Type?></typeOfResource>
+        -->
+        <typeOfResource></typeOfResource><!-- empty element left for autopopulating based on file type
+            -->
+        <originInfo>
+            <dateOther><?cdm-element-name Date?></dateOther>
+            <dateCaptured><?cdm-element-name PhotographDate?></dateCaptured>
+            <!--  <publisher><?cdm-element-name Publisher?></publisher>
+                  -->
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b"><?cdm-element-name Language?></languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>born digital</digitalOrigin>
+            <internetMediaType><?cdm-element-name Format?></internetMediaType>
+            <form><?cdm-element-name Medium?></form>
+        </physicalDescription>
+        <subject>
+            <geographic authority="local"><?cdm-element-name Sitelocation?></geographic> <!-- All three of these geo location fields are uncontroled, how to handle this? as Local or Unqualified -->
+            <geographic authority="local"><?cdm-element-name IdentifiedLocation?></geographic>
+            <geographic authority="local"><?cdm-element-name Address?></geographic>
+            <topic authority="aat"><?cdm-element-name Subject?></topic>
+        </subject>
+        <!--  <identifier><?cdm-element-name Filename?></identifier>
+        <identifier><?cdm-element-name DigitalID?></identifier>
+         Moving these to to <recordInfo><recordIdentifier>   -->
+        <identifier></identifier><!-- empty element left for autopopulating based on file name -->
+        <location>
+            <url></url><!-- empty element left for autopopulating based on file path -->
+        </location>
+        <accessCondition><?cdm-element-name Rights?></accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+            <recordIdentifier><?cdm-element-name DigitalID?></recordIdentifier>
+            <recordIdentifier><?cdm-element-name Filename?></recordIdentifier>
+        </recordInfo>
+        <!-- Below this are non-required fields as outlined in the preliminary documentation -->
+        
+        <name authority="local">
+            <namePart><?cdm-element-name Artist?></namePart>
+            <role>
+                <roleTerm type="text">artist</roleTerm>
+            </role>
+        </name>
+        <name authority="local">
+            <namePart><?cdm-element-name Commissioner?></namePart>
+            <role>
+                <roleTerm type="text">commissioner</roleTerm>
+            </role>
+        </name>
+        <name authority="local">
+            <namePart><?cdm-element-name Photographer?></namePart>
+            <role>
+                <roleTerm type="text">photographer</roleTerm>
+            </role>
+        </name>
+        <abstract><?cdm-element-name Description?></abstract>
+        <relatedItem type="host">
+            <titleInfo>
+                <title><?cdm-element-name DigitalCollection?></title>
+            </titleInfo>
+        </relatedItem>
+    </mods>
+    
+</modsCollection>

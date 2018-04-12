@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    
+    <mods version="3.3">
+        <titleInfo>
+            <title><?cdm-element-name Title?></title>
+        </titleInfo>
+       <!-- <typeOfResource><?cdm-element-name ResourceType?></typeOfResource>
+          -->
+        <typeOfResource></typeOfResource><!-- empty element left for autopopulating based on file type
+            -->
+        <originInfo>
+            <dateOther><?cdm-element-name OriginalDate?></dateOther>
+          <!--   <dateOther><?cdm-element-name DateRange?></dateOther>
+              --> 
+            <dateCaptured><?cdm-element-name DateDigital?></dateCaptured>
+            <!--<publisher><?cdm-element-name Digitalpublisher?></publisher>
+                 --> 
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b"><?cdm-element-name Language?></languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin><!-- this will reflect most of this collection, there are born digital objects, but the distinction is not made in the metadata
+            -->
+            <internetMediaType><?cdm-element-name Format?></internetMediaType>
+            <form><?cdm-element-name GenreTGM?></form>
+            <note><?cdm-element-name DigitizationSpecifications?></note>
+        </physicalDescription>
+        <subject>
+            <geographic authority="lcsh"><?cdm-element-name IdentifiedLocations?></geographic>
+            <topic><?cdm-element-name Theme?></topic><!-- do not believe this is based on a controled vocabulary, but may contain useful content so I've left unqualified -->
+            <topic><?cdm-element-name Subtheme?></topic><!-- do not believe this is based on a controled vocabulary, but may contain useful content so I've left unqualified -->
+            <topic authority="lctgm"><?cdm-element-name GraphicelementsTGM?></topic>
+            <name authority="local">
+                <namePart><?cdm-element-name Identifiedindividuals?></namePart>
+            </name>
+        </subject>
+        <!--  <identifier><?cdm-element-name ImageID?></identifier>
+          This has been mobved to <recordInfo><recordIdentifier>      -->
+        <identifier></identifier><!-- empty element left for autopopulating based on file name -->
+        <location>
+            <url></url><!-- empty element left for autopopulating based on file path -->
+        </location>
+        <accessCondition><?cdm-element-name Rights?></accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+            <recordIdentifier><?cdm-element-name ImageID?></recordIdentifier>
+        </recordInfo>
+        <!-- Below this are non-required fields as outlined in the preliminary documentation -->
+        <name authority="local">
+            <namePart><?cdm-element-name Photographer?></namePart>
+            <role>
+                <roleTerm type="text">photographer</roleTerm>
+            </role>
+        </name>
+        <abstract><?cdm-element-name Description?></abstract>
+        <relatedItem type="host">
+            <titleInfo>
+                <title><?cdm-element-name Digitalcollection?></title>
+            </titleInfo>
+        </relatedItem>
+    </mods>  
+</modsCollection>

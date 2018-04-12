@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    
+    <mods version="3.3">
+        <titleInfo>
+            <title><?cdm-element-name Title?></title>
+        </titleInfo>
+      <!-- <typeOfResource><?cdm-element-name Type?></typeOfResource>
+         -->  
+        <typeOfResource></typeOfResource><!-- empty element left for autopopulating based on file type
+            -->
+        <originInfo>
+            <dateOther><?cdm-element-name Date?></dateOther>
+          <!--  <dateOther><?cdm-element-name Daterange?></dateOther>
+              -->  
+            <dateCaptured><?cdm-element-name Datedigital?></dateCaptured>
+          <!--  <publisher><?cdm-element-name Digitalpublisher?></publisher>
+              -->  
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b"><?cdm-element-name Language?></languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin> <!-- Believe this is accurate for all contents of this collection, but should be verified -->
+            <internetMediaType><?cdm-element-name Format?></internetMediaType>
+            <note><?cdm-element-name ConversionSpecifications?></note>
+            <note><?cdm-element-name Masterfilequality?></note>
+        </physicalDescription>
+        <subject>
+            <topic authority="lcsh"><?cdm-element-name Subject?></topic>
+            <topic authority="lctgm"><?cdm-element-name Graphicelements?></topic>
+            <name authority="local">
+                <namePart><?cdm-element-name IdentifiedIndividuals?></namePart>
+            </name>
+        </subject>
+        <!-- <identifier><?cdm-element-name DigitalID?></identifier>
+        Moving this to to <recordInfo><recordIdentifier>   -->
+        <identifier></identifier><!-- empty element left for autopopulating based on file name -->
+        <location>
+            <url></url><!-- empty element left for autopopulating based on file path -->
+        </location>
+        <accessCondition><?cdm-element-name Copyright?></accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+            <recordIdentifier><?cdm-element-name DigitalID?></recordIdentifier>
+        </recordInfo>
+     <!-- Below this are non-required fields as outlined in the preliminary documentation -->
+        
+        <name>
+            <namePart><?cdm-element-name Creator?></namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <abstract><?cdm-element-name Description?></abstract>
+        <relatedItem type="original">
+            <titleInfo>
+                <title><?cdm-element-name Source?></title>
+            </titleInfo>
+        </relatedItem>
+        <relatedItem type="original">
+            <titleInfo>
+                <title><?cdm-element-name Originalcollection?></title>
+            </titleInfo>
+        </relatedItem>
+        <relatedItem type="host">
+            <titleInfo>
+                <title><?cdm-element-name Digitalcollection?></title>
+            </titleInfo>
+        </relatedItem>
+    </mods>  
+</modsCollection>
