@@ -12,8 +12,7 @@
         <identifier type="local"><?cdm-element-name ImageID?></identifier>
 
         <originInfo>
-            <!-- mapping of OriginalDate tbc -->
-            <dateOther><?cdm-element-name OriginalDate?></dateOther>
+            <dateCreated><?cdm-element-name OriginalDate?></dateCreated>
             <dateCaptured><?cdm-element-name DateDigital?></dateCaptured>
         </originInfo>
         
@@ -27,13 +26,8 @@
             -->
             <internetMediaType><?cdm-element-name Format?></internetMediaType>
             <form><?cdm-element-name GenreTGM?></form>
-            <note><?cdm-element-name DigitizationSpecifications?></note>
         </physicalDescription>
         
-        <subject>
-            <temporal><?cdm-element-name DateRange?></temporal>
-        </subject>
-
         <subject>
             <topic><?cdm-element-name Theme?></topic>
             <!-- do not believe this is based on a controled vocabulary, but may contain useful content so I've left unqualified -->
@@ -65,6 +59,9 @@
                 <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
             </languageOfCataloging>
         </recordInfo>
+        
+        <note type="digitization specifications"><?cdm-element-name DigitizationSpecifications?></note>
+        
 
         <!-- Below this are non-required fields as outlined in the preliminary documentation -->
         <name authority="local">
@@ -76,11 +73,6 @@
         
         <abstract><?cdm-element-name Description?></abstract>
         
-        <relatedItem type="host">
-            <titleInfo>
-                <title><?cdm-element-name Digitalcollection?></title>
-            </titleInfo>
-        </relatedItem>
 
         <!-- DO NOT REMOVE ANY OF THE FOLLOWING CONTENT -->
 
