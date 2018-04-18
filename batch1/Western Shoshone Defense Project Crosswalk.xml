@@ -1,22 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+    version="3.6">
 
-<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
-    
-    <mods version="3.3">
         <titleInfo>
             <title><?cdm-element-name Title?></title>
         </titleInfo>
-      <!-- <typeOfResource><?cdm-element-name Type?></typeOfResource>
-         -->  
-        <typeOfResource></typeOfResource><!-- empty element left for autopopulating based on file type
-            -->
         <originInfo>
             <dateOther><?cdm-element-name Date?></dateOther>
-          <!--  <dateOther><?cdm-element-name Daterange?></dateOther>
-              -->  
             <dateCaptured><?cdm-element-name Datedigital?></dateCaptured>
-          <!--  <publisher><?cdm-element-name Digitalpublisher?></publisher>
-              -->  
         </originInfo>
         <language>
             <languageTerm type="code" authority="iso639-2b"><?cdm-element-name Language?></languageTerm>
@@ -27,19 +19,17 @@
             <note><?cdm-element-name ConversionSpecifications?></note>
             <note><?cdm-element-name Masterfilequality?></note>
         </physicalDescription>
-        <subject>
-            <topic authority="lcsh"><?cdm-element-name Subject?></topic>
-            <topic authority="lctgm"><?cdm-element-name Graphicelements?></topic>
-            <name authority="local">
+        <subject authority="lcsh">
+            <topic><?cdm-element-name Subject?></topic>
+        </subject>
+        <subject authority="lctgm">
+            <topic ><?cdm-element-name Graphicelements?></topic>
+        </subject>
+        <subject authority="local">
+            <name>
                 <namePart><?cdm-element-name IdentifiedIndividuals?></namePart>
             </name>
         </subject>
-        <!-- <identifier><?cdm-element-name DigitalID?></identifier>
-        Moving this to to <recordInfo><recordIdentifier>   -->
-        <identifier></identifier><!-- empty element left for autopopulating based on file name -->
-        <location>
-            <url></url><!-- empty element left for autopopulating based on file path -->
-        </location>
         <accessCondition><?cdm-element-name Copyright?></accessCondition>
         <recordInfo>
             <languageOfCataloging>
@@ -48,14 +38,13 @@
             <recordIdentifier><?cdm-element-name DigitalID?></recordIdentifier>
         </recordInfo>
      <!-- Below this are non-required fields as outlined in the preliminary documentation -->
-        
-        <name>
+        <abstract><?cdm-element-name Description?></abstract>
+        <name authority="local">
             <namePart><?cdm-element-name Creator?></namePart>
             <role>
                 <roleTerm type="text">creator</roleTerm>
             </role>
         </name>
-        <abstract><?cdm-element-name Description?></abstract>
         <relatedItem type="original">
             <titleInfo>
                 <title><?cdm-element-name Source?></title>
@@ -66,45 +55,39 @@
                 <title><?cdm-element-name Originalcollection?></title>
             </titleInfo>
         </relatedItem>
-        <relatedItem type="host">
-            <titleInfo>
-                <title><?cdm-element-name Digitalcollection?></title>
-            </titleInfo>
-        </relatedItem>
-        
-        <!-- DO NOT REMOVE ANY OF THE FOLLOWING CONTENT -->
-        
-        <!-- This will map the file extension to a content model -->
-        <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
-            <identifier><?cdm-element-name contentdm-fileName?></identifier>
-        </relatedItem>
-        
-        <!-- assign collection -->
-        <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi"/>
-        
-        <!-- assign parent/child relationships -->
-        <relatedItem otherType="isChildOf" otherTypeAuth="dgi"/>
-        
-        <!-- This will embed a link the ingest process can follow to retrieve the digital object to place
+
+    <!-- DO NOT REMOVE ANY OF THE FOLLOWING CONTENT -->
+
+    <!-- This will map the file extension to a content model -->
+    <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier><?cdm-element-name contentdm-fileName?></identifier>
+    </relatedItem>
+
+    <!-- assign collection -->
+    <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi"/>
+
+    <!-- assign parent/child relationships -->
+    <relatedItem otherType="isChildOf" otherTypeAuth="dgi"/>
+
+    <!-- This will embed a link the ingest process can follow to retrieve the digital object to place
          in the OBJ datastream. This PI must be mapped to the element that has the ContentDM item url. -->
-        <relatedItem otherType="OBJ" otherTypeAuth="dgi">
-            <?cdm-element-name item-url?>
-        </relatedItem>
-        
-        
-        <!-- This will temporarily embed the original ContentDM data. It is retrieved by the ingest process and stored
+    <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+        <?cdm-element-name item-url?>
+    </relatedItem>
+
+
+    <!-- This will temporarily embed the original ContentDM data. It is retrieved by the ingest process and stored
          in a CDM datastream. -->
-        <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
-            <extension><?cdm-element-name record?></extension>
-        </relatedItem>
-        
-        <!-- This will temporarily embed the full text data. It is retrieved by the ingest process and stored
+    <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension><?cdm-element-name record?></extension>
+    </relatedItem>
+
+    <!-- This will temporarily embed the full text data. It is retrieved by the ingest process and stored
          in a FULLTEXT datastream. -->
-        <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
-            <extension>
-                <FULLTEXT><?cdm-element-name full-text?></FULLTEXT>
-            </extension>
-        </relatedItem>
-        
+    <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            <FULLTEXT><?cdm-element-name full-text?></FULLTEXT>
+        </extension>
+    </relatedItem>
+
     </mods>  
-</modsCollection>
