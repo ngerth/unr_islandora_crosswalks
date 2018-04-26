@@ -1,4 +1,4 @@
-# UNR_Islandora_Crosswalks
+# UNR Islandora Crosswalks
 The repository will be used to house crosswalks and alternate file maps for the UNR migration from CDM to Islandora.
 
 ## Organization
