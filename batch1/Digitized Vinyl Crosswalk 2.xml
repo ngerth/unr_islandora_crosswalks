@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+    version="3.6">
+    
+        <titleInfo>
+            <title><?cdm-element-name Title?></title>
+        </titleInfo>
+        <titleInfo>
+            <title><?cdm-element-name Albumtitle?></title>
+        </titleInfo>
+        <originInfo>
+            <dateOther><?cdm-element-name Originalreleasedate?></dateOther>
+            <dateOther><?cdm-element-name Daterange?></dateOther>
+            <dateCaptured><?cdm-element-name Datedigital?></dateCaptured>
+            <publisher><?cdm-element-name Publisher?></publisher>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b"><?cdm-element-name Language?></languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType><?cdm-element-name Fileformat?></internetMediaType>
+            <note><?cdm-element-name Notes?></note>
+            <extent><?cdm-element-name Digitalextent?></extent>
+            <note><?cdm-element-name Conversionspecifications?></note>
+        </physicalDescription>
+        <subject authority="local">
+            <topic><?cdm-element-name Subject?></topic>
+        </subject>
+    <subject authority="local">
+        <topic><?cdm-element-name Musicgenre?></topic>
+    </subject>
+        <accessCondition><?cdm-element-name Rights?></accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <!-- Below this are non-required fields as outlined in the preliminary documentation -->
+        
+        <abstract><?cdm-element-name Description?></abstract>
+        <tableOfContents><?cdm-element-name Contents?></tableOfContents>
+        <name authority="local">
+            <namePart><?cdm-element-name LyricistPoet?></namePart>
+            <role>
+                <roleTerm type="text">lyricist/poet</roleTerm>
+            </role>
+        </name>
+        <name authority="local">
+            <namePart><?cdm-element-name Composers?></namePart>
+            <role>
+                <roleTerm type="text">composer</roleTerm>
+            </role>
+        </name>
+        <name authority="local">
+            <namePart><?cdm-element-name Arrangers?></namePart>
+            <role>
+                <roleTerm type="text">arranger</roleTerm>
+            </role>
+        </name>
+        <name authority="local">
+            <namePart><?cdm-element-name Performers?></namePart>
+            <role>
+                <roleTerm type="text">performer</roleTerm>
+            </role>
+        </name>
+        <name authority="local">
+            <namePart><?cdm-element-name ConductorDirector?></namePart>
+            <role>
+                <roleTerm type="text">conductor/director</roleTerm>
+            </role>
+        </name>
+        <name authority="local">
+            <namePart><?cdm-element-name Textcontributors?></namePart>
+            <role>
+                <roleTerm type="text">text contributor</roleTerm>
+            </role>
+        </name>
+   
+        <relatedItem>
+            <titleInfo>
+                <title><?cdm-element-name Relation?></title>
+            </titleInfo>
+        </relatedItem>
+        <relatedItem>
+            <titleInfo>
+                <title><?cdm-element-name Series?></title>
+            </titleInfo>
+        </relatedItem>
+        <relatedItem>
+            <titleInfo>
+                <title><?cdm-element-name Originalcollection?></title>
+            </titleInfo>
+        </relatedItem>
+        
+        <!-- DO NOT REMOVE ANY OF THE FOLLOWING CONTENT -->
+        
+        <!-- This will map the file extension to a content model -->
+        <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+            <identifier><?cdm-element-name contentdm-fileName?></identifier>
+        </relatedItem>
+        
+        <!-- assign collection -->
+        <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi"/>
+        
+        <!-- assign parent/child relationships -->
+        <relatedItem otherType="isChildOf" otherTypeAuth="dgi"/>
+        
+        <!-- This will embed a link the ingest process can follow to retrieve the digital object to place
+         in the OBJ datastream. This PI must be mapped to the element that has the ContentDM item url. -->
+        <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+            <?cdm-element-name item-url?>
+        </relatedItem>
+        
+        
+        <!-- This will temporarily embed the original ContentDM data. It is retrieved by the ingest process and stored
+         in a CDM datastream. -->
+        <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+            <extension><?cdm-element-name record?></extension>
+        </relatedItem>
+        
+        <!-- This will temporarily embed the full text data. It is retrieved by the ingest process and stored
+         in a FULLTEXT datastream. -->
+        <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+            <extension>
+                <FULLTEXT><?cdm-element-name full-text?></FULLTEXT>
+            </extension>
+        </relatedItem>
+ 
+    </mods>  
