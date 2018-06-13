@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+    version="3.6">
+    
+        <titleInfo>
+            <title><?cdm-element-name Title?></title>
+        </titleInfo>
+        <originInfo>
+            <dateOther><?cdm-element-name Date?></dateOther>
+        </originInfo>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType><?cdm-element-name Format?></internetMediaType>
+        </physicalDescription>
+        <accessCondition><?cdm-element-name PermissionsInformation?></accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        <!-- Below this are non-required fields as outlined in the preliminary documentation -->         
+        <name authority="local">
+            <namePart><?cdm-element-name ContributingInstitution?></namePart>
+            <role>
+                <roleTerm type="text">contributing institution</roleTerm>
+            </role>
+        </name>  
+        
+        <!-- DO NOT REMOVE ANY OF THE FOLLOWING CONTENT -->
+        
+        <!-- This will map the file extension to a content model -->
+        <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+            <identifier><?cdm-element-name contentdm-fileName?></identifier>
+        </relatedItem>
+        
+        <!-- assign collection -->
+        <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi"/>
+        
+        <!-- assign parent/child relationships -->
+        <relatedItem otherType="isChildOf" otherTypeAuth="dgi"/>
+        
+        <!-- This will embed a link the ingest process can follow to retrieve the digital object to place
+         in the OBJ datastream. This PI must be mapped to the element that has the ContentDM item url. -->
+        <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+            <?cdm-element-name item-url?>
+        </relatedItem>
+        
+        
+        <!-- This will temporarily embed the original ContentDM data. It is retrieved by the ingest process and stored
+         in a CDM datastream. -->
+        <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+            <extension><?cdm-element-name record?></extension>
+        </relatedItem>
+        
+        <!-- This will temporarily embed the full text data. It is retrieved by the ingest process and stored
+         in a FULLTEXT datastream. -->
+        <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+            <extension>
+                <FULLTEXT><?cdm-element-name full-text?></FULLTEXT>
+            </extension>
+        </relatedItem>
+        
+    </mods>  
