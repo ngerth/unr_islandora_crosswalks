@@ -17,3 +17,13 @@ The crosswalks and alternate file maps are broken out by batch.
   * Basque Digital Collection
 * [Batch 7](https://github.com/ngerth/unr_islandora_crosswalks/tree/master/batch7)
   * Tahoe Resources, La Baskonia
+
+## Custom XML exports
+When exporting custom xml from CDM, make sure to change the following fields to make them consistent with the standard export:
+
+| Default Value        | Correct Value|
+| ------------- |:-------------:|
+| CONTENTdmnumber | contentdm-number |
+| CONTENTdmfilename | contentdm-fileName |
+| CONTENTdmfilepath | contentdm-filePath |
+| ItemURL | item-url |
