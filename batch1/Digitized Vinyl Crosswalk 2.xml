@@ -23,19 +23,19 @@
             <internetMediaType><?cdm-element-name Fileformat?></internetMediaType>
             <note><?cdm-element-name Notes?></note>
             <extent><?cdm-element-name Digitalextent?></extent>
-            <note><?cdm-element-name Conversionspecifications?></note>
+            <note><?cdm-element-name Conversion specifications?></note>
         </physicalDescription>
         <subject authority="local">
             <topic><?cdm-element-name Subject?></topic>
+            <topic><?cdm-element-name Musicgenre?></topic>
         </subject>
-    <subject authority="local">
-        <topic><?cdm-element-name Musicgenre?></topic>
-    </subject>
         <accessCondition><?cdm-element-name Rights?></accessCondition>
         <recordInfo>
             <languageOfCataloging>
                 <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
             </languageOfCataloging>
+            <recordIdentifier><?cdm-element-name DigitalID?></recordIdentifier>
+            <recordIdentifier><?cdm-element-name Issuenumber?></recordIdentifier>
         </recordInfo>
         
         <!-- Below this are non-required fields as outlined in the preliminary documentation -->
@@ -73,7 +73,7 @@
             </role>
         </name>
         <name authority="local">
-            <namePart><?cdm-element-name Textcontributors?></namePart>
+            <namePart><?cdm-element-name Text contributors?></namePart>
             <role>
                 <roleTerm type="text">text contributor</roleTerm>
             </role>
