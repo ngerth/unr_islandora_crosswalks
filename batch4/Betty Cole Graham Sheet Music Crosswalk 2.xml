@@ -28,6 +28,8 @@
             <languageOfCataloging>
                 <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
             </languageOfCataloging>
+            <recordIdentifier><?cdm-element-name DigitalID?></recordIdentifier>
+            <recordIdentifier><?cdm-element-name Publishernumber?></recordIdentifier>
         </recordInfo>
         <!-- Below this are non-required fields as outlined in the preliminary documentation -->
         
