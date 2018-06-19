@@ -45,7 +45,7 @@
     </pattern>
     <pattern name="subject: is present, must have @authority with set list of values">
         <rule context="mods:subject">
-            <assert test="@authority='lcsh' or @authority='tgm' or @authority='local' or @authority='aat'">subject @authority with one of these values: lcsh, tgm, or local</assert>
+            <assert test="@authority='lcsh' or @authority='lctgm' or @authority='local' or @authority='aat'">subject @authority with one of these values: lcsh, lctgm, aat, or local</assert>
         </rule>
     </pattern>
     <pattern name="location must have url">
