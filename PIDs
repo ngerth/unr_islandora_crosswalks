@@ -1,24 +1,43 @@
-Basque Digital Collection = basqcoll:collection
-Basque Posters = basqpost:collection
-Book Arts Collection = bookarts:collection
-Campus Images = campphotos:collection
-Chair-i-ty = charity:collection
-First Friend of Ronald Reagan = Laxalt:collection
-Historic Aerial Photos = airviews:collection
-History of Medicine = hom:collection
-Images of Lake Taho = tahoe:collection
-Lincoln Highway = lincoln:collection
-Margaret M. Wheat Collection = wheat:collection
-Maya Miller Papers = miller:collection
-Nevada Agricultural Publications = nevagpub:collection
-Nevada in Maps = hmaps:collection
-Olga Reifschneider Botanical Images = rsc:collection
-Oral History Archive = unohp:collection
-Photograph Collections = spphotos:collection
-Reno Street Art = streetart:collection
-Sagebrush Vernacular = barns:collection
-Sheep Industry of Northern Nevada = sheep:collection
-Special Collections & University Archives Documents = spdocs:collection
-Tahoe Resources = ltresources:collection
-Western Shoshone Defense Project = Shoshone:collection
-Wolf Pack Athletics = wolfpack:collection
+# Batch 1
+Western Shoshone Defense Project = islandora:Shoshone
+Campus Images = islandora:campphotos
+Reno Street Art = islandora:streetart
+Digitized Vinyl = islandora:digvinyl
+
+# Batch 2
+Historic Aerial Photos = islandora:airviews
+Olga Reifschneider Botanical Images = islandora:rsc
+Wolf Pack Athletics = islandora:wolfpack
+
+# Batch 3
+First Friend of Ronald Reagan = islandora:Laxalt
+Images of Lake Tahoe = islandora:tahoe
+Lincoln Highway = islandora:lincoln
+
+# Batch 4
+Betty Cole Graham = islandora:bcg
+Chair-i-ty = islandora:charity
+Harry Reid = Reid
+Margaret M. Wheat Collection = islandora:wheat
+Maya Miller Papers = islandora:miller
+Sagebrush Vernacular = islandora:barns
+
+# Batch 5
+Photograph Collections = islandora:spphotos
+
+# Batch 6
+Basque Digital Collection = islandora:basqcoll
+
+# Batch 7
+Tahoe Resources = islandora:ltresources
+La Baskonia = islandora:baskonia
+
+# Not Migrating
+Basque Posters = islandora:basqpost
+Book Arts Collection = islandora:bookarts
+History of Medicine = islandora:hom
+Nevada Agricultural Publications = islandora:nevagpub
+Nevada in Maps = islandora:hmaps
+Oral History Archive = islandora:unohp
+Sheep Industry of Northern Nevada = islandora:sheep
+Special Collections & University Archives Documents = islandora:spdocs
