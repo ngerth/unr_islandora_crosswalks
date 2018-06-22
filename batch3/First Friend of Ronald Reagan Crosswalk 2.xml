@@ -3,6 +3,7 @@
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
     version="3.6">
     
+    <identifier><?cdm-element-name DigitalID?></identifier><identifier>.tif</identifier>
         <titleInfo>
             <title><?cdm-element-name Title?></title>
         </titleInfo>
@@ -20,6 +21,7 @@
             <note><?cdm-element-name Masterfilequality?></note>
             <note><?cdm-element-name ConversionSpecifications?></note>
         </physicalDescription>
+    <classification authority="local"><?cdm-element-name CallNumber?></classification>
         <subject authority="local">
             <name>
                 <namePart><?cdm-element-name Identifiedindividuals?></namePart>
@@ -31,7 +33,7 @@
     <subject authority="local">
         <topic><?cdm-element-name Theme?></topic>
     </subject>
-        <accessCondition><?cdm-element-name Rights?></accessCondition>
+    <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
         <recordInfo>
             <languageOfCataloging>
                 <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -50,11 +52,6 @@
             <titleInfo>
                 <title><?cdm-element-name Original collection?></title>
                 <title><?cdm-element-name Source?></title>
-            </titleInfo>
-        </relatedItem>
-        <relatedItem type="host">
-            <titleInfo>
-                <title><?cdm-element-name DigitalCollection?></title>
             </titleInfo>
         </relatedItem>
     
