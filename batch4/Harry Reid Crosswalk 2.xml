@@ -20,9 +20,12 @@
         </physicalDescription>
         <subject>
             <name authority="local">
-                <namePart><?cdm-element-name Identified individuals?></namePart>
+                <namePart><?cdm-element-name Identifiedindividuals?></namePart>
             </name>
         </subject>
+    <subject authority="local">
+        <topic><?cdm-element-name Subject?></topic>
+    </subject>
     <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
         <recordInfo>
             <languageOfCataloging>
