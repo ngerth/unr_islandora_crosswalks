@@ -1,0 +1,3662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00008.pdf</identifier>
+        <titleInfo>
+            <title>The Good Fight by Harry Reid (Book Jacket), Nevada, 2008</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>2008</dateIssued>
+            <dateCaptured>2016-08-24</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is the book jacket for Harry Reid's semi-autobiographical book "The Good Fight: Hard Lessons from Searchlite to Washington," published in 2008.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>Book2</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00008.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00008</DigitalID>
+               <Title>The Good Fight by Harry Reid (Book Jacket), Nevada, 2008</Title>
+               <Description>This is the book jacket for Harry Reid's semi-autobiographical book "The Good Fight: Hard Lessons from Searchlite to Washington," published in 2008.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Books</Subject>
+               <Subject>Autobiography</Subject>
+               <Subject>Politicians</Subject>
+               <Contributors>Warren, Mark;</Contributors>
+               <Date>2008</Date>
+               <DateRange>2000-2009</DateRange>
+               <Genre>Book Jacket</Genre>
+               <Source>Book2</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/0</item-url>
+               <Datecreated>2016-08-24</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>0</contentdm-number>
+               <contentdm-fileName>1.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/1.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_0</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00016.pdf</identifier>
+        <titleInfo>
+            <title>Campaign Flier for Harry Reid Senatorial Run, Nevada, ca. 1986</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1986</dateIssued>
+            <dateCaptured>2016-08-24</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a campaign flier for Harry Reid's 1986 Senatorial run.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>NC1110 Box 7-6.1</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00016.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00016</DigitalID>
+               <Title>Campaign Flier for Harry Reid Senatorial Run, Nevada, ca. 1986</Title>
+               <Description>This is a campaign flier for Harry Reid's 1986 Senatorial run.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Campaign paraphernalia</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1986</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Fliers (Printed matter)</Genre>
+               <Source>NC1110 Box 7-6.1</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/1</item-url>
+               <Datecreated>2016-08-24</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>1</contentdm-number>
+               <contentdm-fileName>2.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/2.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_1</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00012.pdf</identifier>
+        <titleInfo>
+            <title>Campaign Flier for Harry Reid, Nevada, ca. 1982</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1982</dateIssued>
+            <dateCaptured>2016-08-24</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>A campaign flier for Harry Reid's 1982 Congressional Run.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>NC1110 Box 7-2</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00012.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00012</DigitalID>
+               <Title>Campaign Flier for Harry Reid, Nevada, ca. 1982</Title>
+               <Description>A campaign flier for Harry Reid's 1982 Congressional Run.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>United States. Congress</Subject>
+               <Subject>Campaign paraphernalia</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1982</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Fliers (Printed matter)</Genre>
+               <Source>NC1110 Box 7-2</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/2</item-url>
+               <Datecreated>2016-08-24</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>2</contentdm-number>
+               <contentdm-fileName>5.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/5.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_2</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00028.pdf</identifier>
+        <titleInfo>
+            <title>Speech from Harry Reid Congressional Run, Nevada, 1982</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1982</dateIssued>
+            <dateCaptured>2016-08-24</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a transcript of Harry Reid's speech announcing his 1982 run for Congress.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>86-02 Box 24 Reid Speech</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00028.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00028</DigitalID>
+               <Title>Speech from Harry Reid Congressional Run, Nevada, 1982</Title>
+               <Description>This is a transcript of Harry Reid's speech announcing his 1982 run for Congress.</Description>
+               <Subject>United States. Congress</Subject>
+               <Subject>Speeches</Subject>
+               <Date>1982</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Documents</Genre>
+               <Source>86-02 Box 24 Reid Speech</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/4</item-url>
+               <Datecreated>2016-08-24</Datecreated>
+               <Datemodified>2017-06-20</Datemodified>
+               <contentdm-number>4</contentdm-number>
+               <contentdm-fileName>4.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/4.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_4</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00009.pdf</identifier>
+        <titleInfo>
+            <title>Political Cartoon of Harry Reid, Nevada, 1992</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1992</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a political cartoon of Harry Reid during his 1992 Senatorial run, featured in the Las Vegas Review Journal.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>img101</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00009.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00009</DigitalID>
+               <Title>Political Cartoon of Harry Reid, Nevada, 1992</Title>
+               <Description>This is a political cartoon of Harry Reid during his 1992 Senatorial run, featured in the Las Vegas Review Journal.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Subject>Political cartoons</Subject>
+               <Date>1992</Date>
+               <DateRange>1990-1999</DateRange>
+               <Genre>Ephemera</Genre>
+               <Genre>Newspaper clippings</Genre>
+               <Source>img101</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/6</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>6</contentdm-number>
+               <contentdm-fileName>7.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/7.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_6</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00005.pdf</identifier>
+        <titleInfo>
+            <title>Harry Reid Speech to UNR Engineering School, Nevada, May 3, 1988</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1988</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a transcript of a speech that Harry Reid delivered to the University of Nevada, Engineering School on May 3, 1988.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>AC0339-57</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00005.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00005</DigitalID>
+               <Title>Harry Reid Speech to UNR Engineering School, Nevada, May 3, 1988</Title>
+               <Description>This is a transcript of a speech that Harry Reid delivered to the University of Nevada, Engineering School on May 3, 1988.</Description>
+               <Subject>Speeches, addresses, etc.</Subject>
+               <Subject>Speeches</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1988</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Public speaking</Genre>
+               <Genre>Documents</Genre>
+               <Source>AC0339-57</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/9</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>9</contentdm-number>
+               <contentdm-fileName>28.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/28.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_9</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00002.pdf</identifier>
+        <titleInfo>
+            <title>Newsletter Reid Report, Nevada, Fall/Winter 1987</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1987</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a newsletter authored by Harry Reid, entitled "The Reid Report."</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>87-32_01</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00002.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00002</DigitalID>
+               <Title>Newsletter Reid Report, Nevada, Fall/Winter 1987</Title>
+               <Description>This is a newsletter authored by Harry Reid, entitled "The Reid Report."</Description>
+               <Subject>Politicians</Subject>
+               <Subject>Newsletters</Subject>
+               <Date>1987</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Newsletters</Genre>
+               <Source>87-32_01</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/10</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>10</contentdm-number>
+               <contentdm-fileName>12.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/12.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_10</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00029.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid Address at UNR Commencement, Nevada, Spring 2007</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>2007</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid speaking during the Spring 2007 University of Nevada, Reno Commencement Ceremony.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>Grad Sprng '07-1647-TDD</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00029.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00029</DigitalID>
+               <Title>Photograph of Harry Reid Address at UNR Commencement, Nevada, Spring 2007</Title>
+               <Description>This is a photograph of Harry Reid speaking during the Spring 2007 University of Nevada, Reno Commencement Ceremony.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Subject>Speeches, addresses, etc.</Subject>
+               <Subject>Speeches</Subject>
+               <Subject>University of Nevada, Reno</Subject>
+               <Subject>Commencement ceremonies</Subject>
+               <Date>2007</Date>
+               <DateRange>2000-2009</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>Grad Sprng '07-1647-TDD</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/13</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>13</contentdm-number>
+               <contentdm-fileName>14.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/14.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_13</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00010.pdf</identifier>
+        <titleInfo>
+            <title>Campaign Flyer for Harry Reid Lt. Governor, Nevada, 1971</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1971</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This a campaign flier for Harry Reid's 1971 run for Lt. Governor of Nevada.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>NC1110 Box 5-3.1</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00010.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00010</DigitalID>
+               <Title>Campaign Flyer for Harry Reid Lt. Governor, Nevada, 1971</Title>
+               <Description>This a campaign flier for Harry Reid's 1971 run for Lt. Governor of Nevada.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Campaign paraphernalia</Subject>
+               <Subject>Politicians</Subject>
+               <Subject>Lieutenant governors</Subject>
+               <Date>1971</Date>
+               <DateRange>1970-1979</DateRange>
+               <Genre>Fliers (Printed matter)</Genre>
+               <Source>NC1110 Box 5-3.1</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/14</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>14</contentdm-number>
+               <contentdm-fileName>15.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/15.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_14</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00014.pdf</identifier>
+        <titleInfo>
+            <title>Campaign Pamphlet for Harry Reid Senatorial Run, Nevada, 1986</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1986</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a campaing pamphlet for Harry Reid's 1986 Sentaorial run.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>NC1110 Box 7-4</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00014.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00014</DigitalID>
+               <Title>Campaign Pamphlet for Harry Reid Senatorial Run, Nevada, 1986</Title>
+               <Description>This is a campaing pamphlet for Harry Reid's 1986 Sentaorial run.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Campaign paraphernalia</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1986</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Pamphlets</Genre>
+               <Source>NC1110 Box 7-4</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/16</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>16</contentdm-number>
+               <contentdm-fileName>17.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/17.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_16</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00030.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with UNR President John Lilley, Nevada, September 24, 2003</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>2003</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with University of Nevada, Reno President John Lilley.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3353-165</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00030.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00030</DigitalID>
+               <Title>Photograph of Harry Reid with UNR President John Lilley, Nevada, September 24, 2003</Title>
+               <Description>This is a photograph of Harry Reid with University of Nevada, Reno President John Lilley.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Lilley, John, 1939-</Identifiedindividuals>
+               <Subject>University of Nevada, Reno</Subject>
+               <Subject>Politicians</Subject>
+               <Date>2003</Date>
+               <DateRange>2000-2009</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3353-165</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/17</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>17</contentdm-number>
+               <contentdm-fileName>22.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/22.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_17</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00001.pdf</identifier>
+        <titleInfo>
+            <title>Campaign Flier  for Harry Reid Congressional Run, Nevada, ca. 1982</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1982</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a campaign flier for Harry Reid's Congressional Run in 1982.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>86-02 Box 24-Reid</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00001.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00001</DigitalID>
+               <Title>Campaign Flier  for Harry Reid Congressional Run, Nevada, ca. 1982</Title>
+               <Description>This is a campaign flier for Harry Reid's Congressional Run in 1982.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>United States. Congress</Subject>
+               <Subject>Politicians</Subject>
+               <Subject>Campaign paraphernalia</Subject>
+               <Date>1982</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Fliers (Printed matter)</Genre>
+               <Source>86-02 Box 24-Reid</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/18</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>18</contentdm-number>
+               <contentdm-fileName>9.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/9.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_18</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00013.pdf</identifier>
+        <titleInfo>
+            <title>Campaign Pamphlet for Harry Reid Senatorial Run, Nevada, 1998</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1998</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a campaign pamphlet for Harry Reid's 1998 Senatorial run against John Ensign.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>NC1110 Box 7-3</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00013.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00013</DigitalID>
+               <Title>Campaign Pamphlet for Harry Reid Senatorial Run, Nevada, 1998</Title>
+               <Description>This is a campaign pamphlet for Harry Reid's 1998 Senatorial run against John Ensign.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Ensign, John E. (John Eric), 1958-</Identifiedindividuals>
+               <Subject>Campaign paraphernalia</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1998</Date>
+               <DateRange>1990-1999</DateRange>
+               <Genre>Pamphlets</Genre>
+               <Source>NC1110 Box 7-3</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/19</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>19</contentdm-number>
+               <contentdm-fileName>18.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/18.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_19</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00022.pdf</identifier>
+        <titleInfo>
+            <title>Campaign Pamphlet (inside) for Harry Reid Senatorial Run, Nevada, 1974</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1974</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a campaign pamphlet for Harry Reid's 1974 Senatorial run</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>NC1110 Box 7-8.1</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00022.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00022</DigitalID>
+               <Title>Campaign Pamphlet (inside) for Harry Reid Senatorial Run, Nevada, 1974</Title>
+               <Description>This is a campaign pamphlet for Harry Reid's 1974 Senatorial run</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Campaign paraphernalia</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1974</Date>
+               <DateRange>1970-1979</DateRange>
+               <Genre>Pamphlets</Genre>
+               <Source>NC1110 Box 7-8.1</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/22</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>22</contentdm-number>
+               <contentdm-fileName>21.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/21.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_22</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00007.pdf</identifier>
+        <titleInfo>
+            <title>"Searchlight" by Harry Reid (Book Jacket), Nevada, 1998</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1998</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is the book jacket for Harry Reid's book "Searchlight: The Camp That Didn't Fail."</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>Book1</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00007.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00007</DigitalID>
+               <Title>"Searchlight" by Harry Reid (Book Jacket), Nevada, 1998</Title>
+               <Description>This is the book jacket for Harry Reid's book "Searchlight: The Camp That Didn't Fail."</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Subject>Books</Subject>
+               <Subject>History</Subject>
+               <Subject>Searchlight (Nev.)</Subject>
+               <Date>1998</Date>
+               <DateRange>1990-1999</DateRange>
+               <Genre>Book Jacket</Genre>
+               <Source>Book1</Source>
+               <Copyright>	This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/23</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>23</contentdm-number>
+               <contentdm-fileName>19.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/19.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_23</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00015.pdf</identifier>
+        <titleInfo>
+            <title>Campaign Flier for Harry Reid Senatorial Run, Nevada, 1986</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1986</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a campaign flier for Harry Reid's 1986 Senatorial run.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>NC1110 Box 7-5</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00015.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00015</DigitalID>
+               <Title>Campaign Flier for Harry Reid Senatorial Run, Nevada, 1986</Title>
+               <Description>This is a campaign flier for Harry Reid's 1986 Senatorial run.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Campaign paraphernalia</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1986</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Fliers (Printed matter)</Genre>
+               <Source>NC1110 Box 7-5</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/24</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>24</contentdm-number>
+               <contentdm-fileName>29.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/29.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_24</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00019.pdf</identifier>
+        <titleInfo>
+            <title>Campaign Flier (back) for Harry Reid Senatorial Run, Nevada, 1992</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1986</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a campaign flier for Harry Reid's 1986 Senatorial run.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>NC1110 Box 7-7.1</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00019.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00019</DigitalID>
+               <Title>Campaign Flier (back) for Harry Reid Senatorial Run, Nevada, 1992</Title>
+               <Description>This is a campaign flier for Harry Reid's 1986 Senatorial run.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Campaign paraphernalia</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1986</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Fliers (Printed matter)</Genre>
+               <Source>NC1110 Box 7-7.1</Source>
+               <Copyright>	This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/25</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>25</contentdm-number>
+               <contentdm-fileName>13.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/13.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_25</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00006.pdf</identifier>
+        <titleInfo>
+            <title>Certificate of Commendation Presented to Nevada 4-H by Harry Reid, Nevada, October 4, 2003</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>2003</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a certificate of condemnation presented to the Nevada 4-H Club by Harry Reid.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>AC0549-3 Certificate</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00006.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00006</DigitalID>
+               <Title>Certificate of Commendation Presented to Nevada 4-H by Harry Reid, Nevada, October 4, 2003</Title>
+               <Description>This is a certificate of condemnation presented to the Nevada 4-H Club by Harry Reid.</Description>
+               <Subject>Politicians</Subject>
+               <Subject>4-H clubs</Subject>
+               <Date>2003</Date>
+               <DateRange>2000-2009</DateRange>
+               <Genre>Documents</Genre>
+               <Source>AC0549-3 Certificate</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/26</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>26</contentdm-number>
+               <contentdm-fileName>8.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/8.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_26</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00024.pdf</identifier>
+        <titleInfo>
+            <title>Campaign Flier for Harry Reid Senatorial Run, Nevada, 1974</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1974</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>application/pdf</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a campaign flier for Harry Reid's 1974 Senatorial run.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>NC1110 Box 7-9.1</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_pdf</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00024.pdf</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00024</DigitalID>
+               <Title>Campaign Flier for Harry Reid Senatorial Run, Nevada, 1974</Title>
+               <Description>This is a campaign flier for Harry Reid's 1974 Senatorial run.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Campaign paraphernalia</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1974</Date>
+               <DateRange>1970-1979</DateRange>
+               <Genre>Fliers (Printed matter)</Genre>
+               <Source>NC1110 Box 7-9.1</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>application/pdf</Format>
+               <Language>Eng</Language>
+               <Type>Text</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/28</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>28</contentdm-number>
+               <contentdm-fileName>6.pdf</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/6.pdf</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_28</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00031.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid and John Lilley, Nevada, February 14, 2007</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>2007</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid presenting University of Nevada, Reno President John Lilley with a check for Sponsor Technology Research.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3353-167</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00031.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00031</DigitalID>
+               <Title>Photograph of Harry Reid and John Lilley, Nevada, February 14, 2007</Title>
+               <Description>This is a photograph of Harry Reid presenting University of Nevada, Reno President John Lilley with a check for Sponsor Technology Research.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Lilley, John, 1939-</Identifiedindividuals>
+               <Subject>Checks</Subject>
+               <Subject>University of Nevada, Reno</Subject>
+               <Subject>Politicians</Subject>
+               <Date>2007</Date>
+               <DateRange>2000-2009</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3353-167</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/29</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>29</contentdm-number>
+               <contentdm-fileName>36.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/36.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_29</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00046.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with Jan MacEachern, Nevada, circa 1980s</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1980-1989</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photgraph of Harry Reid with Jan MacEachern.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRS-P1997-11-16</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00046.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00046</DigitalID>
+               <Title>Photograph of Harry Reid with Jan MacEachern, Nevada, circa 1980s</Title>
+               <Description>This is a photgraph of Harry Reid with Jan MacEachern.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>MacEachern, Jan</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Date>1980-1989</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRS-P1997-11-16</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/30</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>30</contentdm-number>
+               <contentdm-fileName>30.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/30.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_30</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00049.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with Bob Miller and Barbara Wiedner, Nevada, ca. Februrary 1989</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1989</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with Bob Miller and Barbera Wiedner.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRS-P1997-44-232</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00049.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00049</DigitalID>
+               <Title>Photograph of Harry Reid with Bob Miller and Barbara Wiedner, Nevada, ca. Februrary 1989</Title>
+               <Description>This is a photograph of Harry Reid with Bob Miller and Barbera Wiedner.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Miller, Robert (Bob)</Identifiedindividuals>
+               <Identifiedindividuals>Wiedner, Barbara</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Date>1989</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRS-P1997-44-232</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/31</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>31</contentdm-number>
+               <contentdm-fileName>35.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/35.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_31</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00043.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with John Herrington, Nevada, 1986</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1987</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>Senator-Elect Harry Reid, left, shows Department of Energy Secretary John Herrington his anti-repository letter to the President. The letter, initiated in July, opposes the location of a high-level nuclear waste repository in Nevada. Reid told the Secretary that Nevadans are patriotic and support a strong national defense, "but we've done more than our fair share." More than 33,000 Nevadans have signed the letter, which confirms they are "unalterably opposed to the disposal of any high-level nuclear waste in Nevada, now or in the future, under any circumstances." As Herrington looks at the letter and a sample of the signatures, Reid stands next to a pile of the signature sheets on his desk. Herrington will now present the letter and signatures to the President.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRS-P1987-12-1</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00043.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00043</DigitalID>
+               <Title>Photograph of Harry Reid with John Herrington, Nevada, 1986</Title>
+               <Description>Senator-Elect Harry Reid, left, shows Department of Energy Secretary John Herrington his anti-repository letter to the President. The letter, initiated in July, opposes the location of a high-level nuclear waste repository in Nevada. Reid told the Secretary that Nevadans are patriotic and support a strong national defense, "but we've done more than our fair share." More than 33,000 Nevadans have signed the letter, which confirms they are "unalterably opposed to the disposal of any high-level nuclear waste in Nevada, now or in the future, under any circumstances." As Herrington looks at the letter and a sample of the signatures, Reid stands next to a pile of the signature sheets on his desk. Herrington will now present the letter and signatures to the President.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Herrington, John S., 1939-</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Subject>Radioactive waste disposal</Subject>
+               <Date>1987</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRS-P1987-12-1</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/32</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>32</contentdm-number>
+               <contentdm-fileName>40.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/40.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_32</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00050.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with others, Nevada, ca. February 1989</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1989</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with: Richard Bryan; Jan Evans; Anita Bray; Fianna Dickson Combs; Fia Maraccini; and Bob Miller.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRS-P1997-44-260</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00050.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00050</DigitalID>
+               <Title>Photograph of Harry Reid with others, Nevada, ca. February 1989</Title>
+               <Description>This is a photograph of Harry Reid with: Richard Bryan; Jan Evans; Anita Bray; Fianna Dickson Combs; Fia Maraccini; and Bob Miller.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Bryan, Richard</Identifiedindividuals>
+               <Identifiedindividuals>Evans, Jan</Identifiedindividuals>
+               <Identifiedindividuals>Bray, Anita</Identifiedindividuals>
+               <Identifiedindividuals>Combs, Fianna Dickson</Identifiedindividuals>
+               <Identifiedindividuals>Maraccinia, Fia</Identifiedindividuals>
+               <Identifiedindividuals>Miller, Robert (Bob)</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Date>1989</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRS-P1997-44-260</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/33</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>33</contentdm-number>
+               <contentdm-fileName>41.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/41.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_33</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00042.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with Unidentified TRIO Program Students in Washington, D.C., 2010</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>2003</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>Photograph of Harry Reid with Unidentified TRIO Program Students in Washington, D.C., 2010</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3574-041</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00042.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00042</DigitalID>
+               <Title>Photograph of Harry Reid with Unidentified TRIO Program Students in Washington, D.C., 2010</Title>
+               <Description>Photograph of Harry Reid with Unidentified TRIO Program Students in Washington, D.C., 2010</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Subject>College students</Subject>
+               <Date>2003</Date>
+               <DateRange>2000-2009</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3574-041</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/34</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>34</contentdm-number>
+               <contentdm-fileName>32.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/32.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_34</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00033.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with Joseph Crowley, Nevada, ca.1991</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1991</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with University of Nevada, Reno (U.N.R.) President Joseph Crowley in front of the U.N.R. Harry Reid Engineering Laboratory.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3382-1</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00033.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00033</DigitalID>
+               <Title>Photograph of Harry Reid with Joseph Crowley, Nevada, ca.1991</Title>
+               <Description>This is a photograph of Harry Reid with University of Nevada, Reno (U.N.R.) President Joseph Crowley in front of the U.N.R. Harry Reid Engineering Laboratory.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Crowley, Joseph N., 1933-</Identifiedindividuals>
+               <Subject>University of Nevada, Reno</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1991</Date>
+               <DateRange>1990-1999</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3382-1</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/35</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>35</contentdm-number>
+               <contentdm-fileName>43.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/43.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_35</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00038.tif</identifier>
+        <titleInfo>
+            <title>Photgraph of Harry Reid with Kenny Guinn and others, Lake Tahoe Summit, Nevada, August 21, 2001</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>2001</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with: Nevada Governor Kenny Guinn; Christine Todd Whitman; Congressman Jim Gibbons; and others at the Annual Lake Tahoe Summit.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3460-119</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00038.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00038</DigitalID>
+               <Title>Photgraph of Harry Reid with Kenny Guinn and others, Lake Tahoe Summit, Nevada, August 21, 2001</Title>
+               <Description>This is a photograph of Harry Reid with: Nevada Governor Kenny Guinn; Christine Todd Whitman; Congressman Jim Gibbons; and others at the Annual Lake Tahoe Summit.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Gibbons, James (Jim)</Identifiedindividuals>
+               <Identifiedindividuals>Whitman, Christine Todd</Identifiedindividuals>
+               <Identifiedindividuals>Guinn, Kenny</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Subject>Summits: environmental science, law, and policy</Subject>
+               <Subject>Lake Tahoe Basin National Forest (Calif. and Nev.)</Subject>
+               <Date>2001</Date>
+               <DateRange>2000-2009</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3460-119</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/36</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>36</contentdm-number>
+               <contentdm-fileName>34.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/34.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_36</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00034.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with Joe Crowley, Nevada, ca. 1991</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1991</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with University of Nevada, Reno (U.N.R.) President Joseph Crowley as they unveil a photograph of the U.N.R. Harry Reid Engineering Laboratory.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3382-2</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00034.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00034</DigitalID>
+               <Title>Photograph of Harry Reid with Joe Crowley, Nevada, ca. 1991</Title>
+               <Description>This is a photograph of Harry Reid with University of Nevada, Reno (U.N.R.) President Joseph Crowley as they unveil a photograph of the U.N.R. Harry Reid Engineering Laboratory.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Crowley, Joseph N., 1933-</Identifiedindividuals>
+               <Subject>University of Nevada, Reno</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1991</Date>
+               <DateRange>1990-1999</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3382-2</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/37</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>37</contentdm-number>
+               <contentdm-fileName>48.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/48.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_37</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00047.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with Angus MacEachern, Nevada, circa 1980s</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1980-1989</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photophraph of Harry Reid with Angus MacEachern.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRS-P1997-11-17</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00047.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00047</DigitalID>
+               <Title>Photograph of Harry Reid with Angus MacEachern, Nevada, circa 1980s</Title>
+               <Description>This is a photophraph of Harry Reid with Angus MacEachern.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>MacEachern, Angus</Identifiedindividuals>
+               <Subject>Politcians</Subject>
+               <Date>1980-1989</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRS-P1997-11-17</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/38</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>38</contentdm-number>
+               <contentdm-fileName>44.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/44.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_38</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00048.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with Martha Gould, Nevada, ca. February 1989</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1989</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with Martha Gould at the Nevada Governor's Conference for Women in 1989.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRS-P1997-44-220</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00048.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00048</DigitalID>
+               <Title>Photograph of Harry Reid with Martha Gould, Nevada, ca. February 1989</Title>
+               <Description>This is a photograph of Harry Reid with Martha Gould at the Nevada Governor's Conference for Women in 1989.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Gould, Martha</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Date>1989</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRS-P1997-44-220</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/39</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>39</contentdm-number>
+               <contentdm-fileName>38.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/38.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_39</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00045.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with Kathryn Wishart, Nevada, March 21, 1988</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1988</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with Kathryn Wishart.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRS-P1997-09-18</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00045.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00045</DigitalID>
+               <Title>Photograph of Harry Reid with Kathryn Wishart, Nevada, March 21, 1988</Title>
+               <Description>This is a photograph of Harry Reid with Kathryn Wishart.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Wishart, Kathryn</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Date>1988</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRS-P1997-09-18</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImages</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/40</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>40</contentdm-number>
+               <contentdm-fileName>45.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/45.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_40</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00039.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid Speaking at the Annual Lake Tahoe Summit, Nevada, August 21, 2001</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>2001</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+       
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid speaking at the Annual Lake Tahoe Summit.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3460-121</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00039.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00039</DigitalID>
+               <Title>Photograph of Harry Reid Speaking at the Annual Lake Tahoe Summit, Nevada, August 21, 2001</Title>
+               <Description>This is a photograph of Harry Reid speaking at the Annual Lake Tahoe Summit.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Subject>Summits: environmental science, law, and policy</Subject>
+               <Subject>Lake Tahoe Basin National Forest (Calif. and Nev.)</Subject>
+               <Date>2001</Date>
+               <DateRange>2000-2009</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3460-121</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/41</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>41</contentdm-number>
+               <contentdm-fileName>37.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/37.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_41</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00035.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with Unidentified Individual, Harry Reid Engineering Laboratory, Nevada, ca. 1991</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1991</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with an unidentified individual in front of a photograph for the University of Nevada, Reno Harry Reid Engineering Laboratory.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3382-3</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00035.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00035</DigitalID>
+               <Title>Photograph of Harry Reid with Unidentified Individual, Harry Reid Engineering Laboratory, Nevada, ca. 1991</Title>
+               <Description>This is a photograph of Harry Reid with an unidentified individual in front of a photograph for the University of Nevada, Reno Harry Reid Engineering Laboratory.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>University of Nevada, Reno</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1991</Date>
+               <DateRange>1990-1999</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3382-3</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>StillImage</Language>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/42</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>42</contentdm-number>
+               <contentdm-fileName>46.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/46.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_42</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00044.tif</identifier>
+        <titleInfo>
+            <title>Portrait of Harry Reid, Nevada, 1987</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1987</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>Portrait of Harry Reid.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRS-P1987-12-2</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00044.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00044</DigitalID>
+               <Title>Portrait of Harry Reid, Nevada, 1987</Title>
+               <Description>Portrait of Harry Reid.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Date>1987</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Portrait photographs</Genre>
+               <Source>UNRS-P1987-12-2</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/43</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>43</contentdm-number>
+               <contentdm-fileName>39.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/39.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_43</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00041.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with others, Nevada, March 9, 1992</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1992</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with Thuy Van; Aron Woods; Patty Cruz; and an unidentified student.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3574-013</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00041.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00041</DigitalID>
+               <Title>Photograph of Harry Reid with others, Nevada, March 9, 1992</Title>
+               <Description>This is a photograph of Harry Reid with Thuy Van; Aron Woods; Patty Cruz; and an unidentified student.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Van, Thuy</Identifiedindividuals>
+               <Identifiedindividuals>Woods, Aron</Identifiedindividuals>
+               <Identifiedindividuals>Cruz, Patty</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Subject>College students</Subject>
+               <Date>1992</Date>
+               <DateRange>1990-1999</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3574-013</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/44</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>44</contentdm-number>
+               <contentdm-fileName>47.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/47.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_44</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00040.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with UNR Board of Regents Member Jill Derby, Nevada, ca. 1988</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1988</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with the University of Nevada, Reno Board of Regents member Jill Derby.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3467-01</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00040.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00040</DigitalID>
+               <Title>Photograph of Harry Reid with UNR Board of Regents Member Jill Derby, Nevada, ca. 1988</Title>
+               <Description>This is a photograph of Harry Reid with the University of Nevada, Reno Board of Regents member Jill Derby.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Derby, Jill</Identifiedindividuals>
+               <Subject>University of Nevada, Reno</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1988</Date>
+               <DateRange>1980-1989</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3467-01</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/45</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>45</contentdm-number>
+               <contentdm-fileName>31.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/31.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_45</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00032.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid with John Ensign, John Lilley, and Cary Groth, Nevada, April 24, 2004</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>2004</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with: Senator John Ensign; University of Nevada, Reno President John Lilley; and University of Nevada, Reno Athletics Director Cary Groth.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3353-168</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00032.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00032</DigitalID>
+               <Title>Photograph of Harry Reid with John Ensign, John Lilley, and Cary Groth, Nevada, April 24, 2004</Title>
+               <Description>This is a photograph of Harry Reid with: Senator John Ensign; University of Nevada, Reno President John Lilley; and University of Nevada, Reno Athletics Director Cary Groth.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Lilley, John, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Ensign, John E. (John Eric), 1958-</Identifiedindividuals>
+               <Identifiedindividuals>Groth, Cary</Identifiedindividuals>
+               <Subject>University of Nevada, Reno</Subject>
+               <Subject>Politicians</Subject>
+               <Date>2004</Date>
+               <DateRange>2000-2009</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3353-168</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/46</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>46</contentdm-number>
+               <contentdm-fileName>42.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/42.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_46</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00037.tif</identifier>
+        <titleInfo>
+            <title>Photgraph of Harry Reid with others, Lake Tahoe Summit, Nevada, August 21, 2001</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>2001</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+       
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid with: University of Nevada, Reno President John Lilley; Congressman Jim Gibbons; and others at the annual Lake Tahoe Summit.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3460-116</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00037.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00037</DigitalID>
+               <Title>Photgraph of Harry Reid with others, Lake Tahoe Summit, Nevada, August 21, 2001</Title>
+               <Description>This is a photograph of Harry Reid with: University of Nevada, Reno President John Lilley; Congressman Jim Gibbons; and others at the annual Lake Tahoe Summit.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Lilley, John, 1939-</Identifiedindividuals>
+               <Identifiedindividuals>Gibbons, James (Jim)</Identifiedindividuals>
+               <Subject>Politicians</Subject>
+               <Subject>Summits: environmental science, law, and policy</Subject>
+               <Subject>Lake Tahoe Basin National Forest (Calif. and Nev.)</Subject>
+               <Date>2001</Date>
+               <DateRange>2000-2009</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3460-116</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/47</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>47</contentdm-number>
+               <contentdm-fileName>33.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/33.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_47</identifier>
+   </mods>
+   <mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+         version="3.6">
+    
+      <identifier>Reid00036.tif</identifier>
+        <titleInfo>
+            <title>Photograph of Harry Reid Speaking, Harry Reid Engineering Laboratory, Nevada, ca. 1991</title>
+        </titleInfo>
+        <originInfo>
+            <dateIssued>1991</dateIssued>
+            <dateCaptured>2016-08-30</dateCaptured>
+        </originInfo>
+        
+        <physicalDescription>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <internetMediaType>image/tiff</internetMediaType>
+        </physicalDescription>
+        
+      <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
+        <recordInfo>
+            <languageOfCataloging>
+                <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+            </languageOfCataloging>
+        </recordInfo>
+        
+        <abstract>This is a photograph of Harry Reid speaking at the unveiling of the University of Nevada, Reno Harry Reid Engineering Laboratory.</abstract>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note>UNRA-P3382-5</note>
+            </physicalDescription>
+        </relatedItem>
+    
+    
+    
+    
+      <relatedItem otherType="islandoraCModel" otherTypeAuth="dgi">
+        <identifier>islandora:sp_large_image_cmodel</identifier>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="islandoraCollection" otherTypeAuth="dgi">
+         <identifier>Reid:collection</identifier>
+      </relatedItem>
+    
+    
+    
+    
+    
+      <relatedItem otherType="OBJ" otherTypeAuth="dgi">
+         <location>
+            <url note="local">/sftp/sftp_unr/uploads/Reid/Reid00036.tif</url>
+         </location>
+      </relatedItem>
+    
+    
+    
+      <relatedItem otherType="CDMDatastream" otherTypeAuth="dgi">
+        <extension>
+            <record xmlns="http://www.oclc.org/contentdm">
+               <DigitalID>Reid00036</DigitalID>
+               <Title>Photograph of Harry Reid Speaking, Harry Reid Engineering Laboratory, Nevada, ca. 1991</Title>
+               <Description>This is a photograph of Harry Reid speaking at the unveiling of the University of Nevada, Reno Harry Reid Engineering Laboratory.</Description>
+               <Identifiedindividuals>Reid, Harry, 1939-</Identifiedindividuals>
+               <Subject>University of Nevada, Reno</Subject>
+               <Subject>Politicians</Subject>
+               <Date>1991</Date>
+               <DateRange>1990-1999</DateRange>
+               <Genre>Photographs</Genre>
+               <Source>UNRA-P3382-5</Source>
+               <Copyright>This item is protected by copyright and/or related rights. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</Copyright>
+               <OrderingInformation>To order a high resolution copy of this item, please refer to the Special Collections Department's Digital Images Order Form here: http://contentdm.library.unr.edu/shoppingcart/index.php For more information, please contact Special Collections at (775) 682-5665 or specoll@unr.edu.</OrderingInformation>
+               <Format>image/jp2</Format>
+               <Language>Eng</Language>
+               <Type>StillImage</Type>
+               <item-url>http://contentdm.library.unr.edu:80/cdm/ref/collection/Reid/id/48</item-url>
+               <Datecreated>2016-08-30</Datecreated>
+               <Datemodified>2016-09-28</Datemodified>
+               <contentdm-number>48</contentdm-number>
+               <contentdm-fileName>49.jp2</contentdm-fileName>
+               <contentdm-filePath>/Reid/image/49.jp2</contentdm-filePath>
+            </record>
+         </extension>
+      </relatedItem>
+    
+    
+      <relatedItem otherType="FULLTEXTDatastream" otherTypeAuth="dgi">
+        <extension>
+            
+        </extension>
+      </relatedItem>
+    
+      <identifier type="islandora">collection_48</identifier>
+   </mods>
+</modsCollection>
