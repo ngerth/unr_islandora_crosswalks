@@ -16,7 +16,7 @@
 
 # Batch 4
 * Betty Cole Graham = bcg:collection
-* Chair-i-ty = charity:collection
+* Chair-i-ty = chairity:collection
 * Harry Reid = Reid:collection
 * Margaret M. Wheat Collection = wheat:collection
 * Maya Miller Papers = miller:collection
