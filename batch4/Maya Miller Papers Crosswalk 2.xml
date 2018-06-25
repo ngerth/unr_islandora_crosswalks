@@ -38,6 +38,7 @@
         <physicalDescription>
             <note><?cdm-element-name Source?></note>
         </physicalDescription>
+        <classification authority="local"><?cdm-element-name CallNumber?></classification>
     </relatedItem>
         <!-- Below this are non-required fields as outlined in the preliminary documentation -->
         
