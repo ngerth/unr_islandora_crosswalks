@@ -3,6 +3,9 @@
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
     version="3.6">
     
+    <identifier><relatedItem otherType="OBJ" otherTypeAuth="dgi">
+        <?cdm-element-name item-url?>
+    </relatedItem></identifier>
         <titleInfo>
             <title><?cdm-element-name Title?></title>
         </titleInfo>
@@ -11,8 +14,7 @@
         </titleInfo>
         <originInfo>
             <dateOther><?cdm-element-name Originalreleasedate?></dateOther>
-            <dateOther><?cdm-element-name Daterange?></dateOther>
-            <dateCaptured><?cdm-element-name Datedigital?></dateCaptured>
+            <dateCaptured><?cdm-element-name Datecreated?></dateCaptured>
             <publisher><?cdm-element-name Publisher?></publisher>
         </originInfo>
         <language>
@@ -23,15 +25,13 @@
             <internetMediaType><?cdm-element-name Fileformat?></internetMediaType>
             <note><?cdm-element-name Notes?></note>
             <extent><?cdm-element-name Digitalextent?></extent>
-            <note><?cdm-element-name Conversionspecifications?></note>
+            <note><?cdm-element-name ConversionSpecifications?></note>
         </physicalDescription>
         <subject authority="local">
             <topic><?cdm-element-name Subject?></topic>
-        </subject>
-    <subject authority="local">
-        <topic><?cdm-element-name Musicgenre?></topic>
+            <topic><?cdm-element-name Musicgenre?></topic>
     </subject>
-        <accessCondition><?cdm-element-name Rights?></accessCondition>
+    <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
         <recordInfo>
             <languageOfCataloging>
                 <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
@@ -79,20 +79,15 @@
             </role>
         </name>
    
-        <relatedItem>
-            <titleInfo>
-                <title><?cdm-element-name Relation?></title>
-            </titleInfo>
-        </relatedItem>
-        <relatedItem>
+      <relatedItem type="series">
             <titleInfo>
                 <title><?cdm-element-name Series?></title>
             </titleInfo>
         </relatedItem>
-        <relatedItem>
-            <titleInfo>
-                <title><?cdm-element-name Originalcollection?></title>
-            </titleInfo>
+        <relatedItem type="original">
+            <physicalDescription>
+                <note><?cdm-element-name Originalcollection?></note>
+            </physicalDescription>
         </relatedItem>
         
         <!-- DO NOT REMOVE ANY OF THE FOLLOWING CONTENT -->
