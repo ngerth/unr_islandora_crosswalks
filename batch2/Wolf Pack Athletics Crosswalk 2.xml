@@ -3,7 +3,9 @@
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
     version="3.6">
     
-    <identifier><?cdm-element-name ImageID?></identifier><identifier>.tif</identifier>
+    <identifier><relatedItem otherType="OBJ" otherTypeAuth="dgi">
+        <?cdm-element-name item-url?>
+    </relatedItem></identifier>
         <titleInfo>
             <title><?cdm-element-name Title?></title>
         </titleInfo>
