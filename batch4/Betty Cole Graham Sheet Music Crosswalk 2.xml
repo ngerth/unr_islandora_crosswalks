@@ -3,12 +3,13 @@
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
     version="3.6">
     
+    <identifier><?cdm-element-name DigitalID?></identifier><identifier>.pdf</identifier>
         <titleInfo>
             <title><?cdm-element-name Title?></title>
         </titleInfo>
         <originInfo>
-            <dateOther><?cdm-element-name Date?></dateOther>
-            <dateCaptured><?cdm-element-name Datedigital?></dateCaptured>
+            <dateIssued><?cdm-element-name Date?></dateIssued>
+            <dateCaptured><?cdm-element-name Datecreated?></dateCaptured>
             <publisher><?cdm-element-name Publisher?></publisher>
         </originInfo>
         <language>
@@ -16,26 +17,26 @@
         </language>
         <physicalDescription>
             <digitalOrigin>digitized other analog</digitalOrigin>
-            <internetMediaType><?cdm-element-name Format?></internetMediaType>
-            <note><?cdm-element-name Masterfilequality?></note>
-            <note><?cdm-element-name Conversionspecifications?></note>
+            <internetMediaType>application/pdf</internetMediaType>
+            <note><?cdm-element-name MasterFileQuality?></note>
+            <note><?cdm-element-name ConversionSpecifications?></note>
         </physicalDescription>
         <subject authority="local">
             <topic><?cdm-element-name Theme?></topic>
         </subject>
-        <accessCondition><?cdm-element-name Rights?></accessCondition>
+    <accessCondition type="use and reproduction">The copyright and related rights status of this item has been reviewed by the organization that has made the item available, but the organization was unable to make a conclusive determination as to the copyright status of the item. Please refer to the organization that has made the item available for more information. You are free to use this item in any way that is permitted by the copyright and related rights legislation that applies to your use. http://rightsstatements.org/vocab/UND/1.0/</accessCondition>
         <recordInfo>
             <languageOfCataloging>
                 <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
             </languageOfCataloging>
             <recordIdentifier><?cdm-element-name DigitalID?></recordIdentifier>
-            <recordIdentifier><?cdm-element-name Publishernumber?></recordIdentifier>
+            <recordIdentifier><?cdm-element-name PublisherNumber?></recordIdentifier>
         </recordInfo>
         <!-- Below this are non-required fields as outlined in the preliminary documentation -->
         
         <abstract><?cdm-element-name Description?></abstract>
         <abstract displayLabel="First line of Chorus"><?cdm-element-name FirstlineofChorus?></abstract>
-        <abstract><?cdm-element-name Notes?></abstract>
+        <note><?cdm-element-name Notes?></note>
         
         <name authority="local">
             <namePart><?cdm-element-name Composers?></namePart>
@@ -50,7 +51,7 @@
             </role>
         </name>
         <name authority="local">
-            <namePart><?cdm-element-name Associated performers?></namePart>
+            <namePart><?cdm-element-name Associatedperformers?></namePart>
             <role>
                 <roleTerm type="text">associated performer</roleTerm>
             </role>
@@ -63,13 +64,8 @@
         </name>
 
         <relatedItem type="original">
-            <titleInfo>
-                <title><?cdm-element-name Source?></title>
-            </titleInfo>
-        </relatedItem>
-        <relatedItem>
-            <titleInfo>
-                <title><?cdm-element-name Associatedplayorfilm?></title>
+                <physicalDescription><note><?cdm-element-name Source?></note></physicalDescription>
+                <titleInfo><title><?cdm-element-name Associatedplayorfilm?></title>
             </titleInfo>
         </relatedItem>
     
