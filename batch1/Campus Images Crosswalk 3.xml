@@ -13,13 +13,9 @@
             <dateOther><?cdm-element-name OriginalDate?></dateOther>
             <dateCaptured><?cdm-element-name DateDigital?></dateCaptured>
         </originInfo>
-        <language>
-            <languageTerm type="code" authority="iso639-2b"><?cdm-element-name Language?></languageTerm>
-        </language>
         <physicalDescription>
             <digitalOrigin>digitized other analog</digitalOrigin>
             <internetMediaType>image/tiff</internetMediaType>
-            <form><?cdm-element-name GenreTGM?></form>
             <note><?cdm-element-name DigitizationSpecifications?></note>
         </physicalDescription>
         <subject authority="lcsh">
